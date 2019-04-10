@@ -7,6 +7,13 @@
 
 <b> Next ones to read: </b>
 <ul>
-  <li>Bad blood</li>
+  <li> Bad blood </li>
   <li> AI Superpowers: China, Silicon Valley, and the New World Order </li>
+  <li> The Lean Startup </li>
+</ul>
+
+<b> Watching Series: </b>
+<ul>
+  <li>Black Mirror</li>
+  <li>Game, Love, Robots</li>
 </ul>
