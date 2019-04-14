@@ -20,7 +20,7 @@
 <b> Watching Series: </b>
 <ul>
   <li>Black Mirror</li>
-  <li>Game, Love, Robots</li>
+  <li>Love, Death & Robots</li>
 </ul>
 
 <b> Courses: </b>
