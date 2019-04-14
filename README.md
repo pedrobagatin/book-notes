@@ -7,7 +7,7 @@
 
 <b> Present: </b>
 <ul>
-    <li> Bad blood </li>
+    <li> Bad Blood </li>
 </ul>
 
 <b> Future: </b>
