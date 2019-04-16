@@ -28,3 +28,8 @@
   <li>Unity 3D</li>
   <li>Blender</li>
 </ul>
+
+<b> Extra Annotations: </b>
+<ul>
+  <li>Linden's Handbook of Batteries</li>
+</ul>
