@@ -29,6 +29,11 @@
   <li>Blender</li>
 </ul>
 
+<b> Games: </b>
+<ul>
+  <li>Cave Story</li>
+</ul>
+
 <b> Projects: </b>
 <ul>
   <li>Fire in Unity</li>
