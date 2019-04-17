@@ -11,10 +11,10 @@
 </ul>
 
 <b> Future: </b>
-<ul>
-  <li> AI Superpowers: China, Silicon Valley, and the New World Order </li>
-  <li> The Lean Startup </li>
+<ul> 
   <li> The Non-Designer's Design Book </li>
+  <li> The Lean Startup </li>
+  <li> AI Superpowers: China, Silicon Valley, and the New World Order </li>
 </ul>
 
 <b> Watching Series: </b>
