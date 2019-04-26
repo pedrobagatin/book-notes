@@ -25,6 +25,7 @@
 
 <b> Courses: </b>
 <ul>
+  <li>AWS</li>
   <li>Unity 3D</li>
   <li>Blender</li>
 </ul>
