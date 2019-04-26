@@ -19,7 +19,7 @@
 
 <b> Series: </b>
 <ul>
-  <li>Love, Death & Robots (X)</li>
+  <li>Love, Death & Robots <b>(X)</b></li>
   <li>Black Mirror ( )</li>
 </ul>
 
