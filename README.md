@@ -17,10 +17,13 @@
   <li> AI Superpowers: China, Silicon Valley, and the New World Order </li>
 </ul>
 
-<b> Watching Series: </b>
+<b> Series: </b>
+<ul>
+  <li>Love, Death & Robots</li>
+</ul>
+
 <ul>
   <li>Black Mirror</li>
-  <li>Love, Death & Robots</li>
 </ul>
 
 <b> Courses: </b>
