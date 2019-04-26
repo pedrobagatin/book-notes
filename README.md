@@ -19,8 +19,8 @@
 
 <b> Series: </b>
 <ul>
-  <li>Love, Death & Robots <b>(X)</b></li>
-  <li>Black Mirror ( )</li>
+  <li></strike>Love, Death & Robots</strike></li>
+  <li>Black Mirror</li>
 </ul>
 
 <b> Courses: </b>
