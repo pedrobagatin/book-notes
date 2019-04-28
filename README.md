@@ -26,6 +26,7 @@
 <b> Games: </b>
 <ul>
   <li>Cave Story</li>
+  <li>Donkey Kong Country 2</li>
 </ul>
 
 <b> Projects: </b>
