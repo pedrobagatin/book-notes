@@ -1,19 +1,11 @@
 # book-notes
 
-<b> Past: </b>
+<b> Books: </b>
 <ul>
-  <li>Life 3.0: Being Human in the Age of Artificial Intelligence</li>
-</ul>
-
-<b> Present: </b>
-<ul>
-    <li> Bad Blood </li>
-</ul>
-
-<b> Future: </b>
-<ul> 
-  <li> The Non-Designer's Design Book </li>
+  <li><strike>Life 3.0: Being Human in the Age of Artificial Intelligence</strike></li>
+  <li><strike>Bad Blood </strike></li>
   <li> The Lean Startup </li>
+  <li> The Non-Designer's Design Book </li>
   <li> AI Superpowers: China, Silicon Valley, and the New World Order </li>
 </ul>
 
