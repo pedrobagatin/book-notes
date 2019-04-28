@@ -20,6 +20,7 @@
 <b> Series: </b>
 <ul>
   <li><strike>Love, Death & Robots</strike></li>
+  <li><strike>비정규직 </strike></li>
   <li>Black Mirror</li>
 </ul>
 
