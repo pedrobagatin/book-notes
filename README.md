@@ -25,7 +25,7 @@
 
 <b> Games: </b>
 <ul>
-  <li>Cave Story</li>
+  <li><strike>Cave Story</strike></li>
   <li>Donkey Kong Country 2</li>
 </ul>
 
