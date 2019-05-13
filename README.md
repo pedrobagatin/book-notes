@@ -8,6 +8,7 @@
   <li> The Non-Designer's Design Book </li>
   <li> AI Superpowers: China, Silicon Valley, and the New World Order </li>
   <li> Playing with FIRE: Financial Independence Retire Early </li>
+  <li> The four-hour work week </li>
 </ul>
 
 <b> Series: </b>
