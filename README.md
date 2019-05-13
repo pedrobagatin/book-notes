@@ -7,7 +7,7 @@
   <li> The Lean Startup </li>
   <li> The Non-Designer's Design Book </li>
   <li> AI Superpowers: China, Silicon Valley, and the New World Order </li>
-  <li> Playing with FIRE: Financial Independence Retire Early </li>
+  <li> Playing with FIRE: Financial Independence Retire Early (Chapter 2) </li>
   <li> The four-hour work week </li>
 </ul>
 
