@@ -15,7 +15,7 @@
 <ul>
   <li><strike>Love, Death & Robots</strike></li>
   <li><strike>비정규직 아이돌</strike></li>
-  <li>Black Mirror</li>
+  <li><strike>Black Mirror</strike></li>
 </ul>
 
 <b> Courses: </b>
