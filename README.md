@@ -11,11 +11,12 @@
   <li> The four-hour work week </li>
 </ul>
 
-<b> Series: </b>
+<b> Series/Movies: </b>
 <ul>
   <li><strike>Love, Death & Robots</strike></li>
   <li><strike>비정규직 아이돌</strike></li>
   <li><strike>Black Mirror</strike></li>
+  <li>Minimalism</li>
 </ul>
 
 <b> Courses: </b>
