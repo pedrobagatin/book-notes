@@ -16,7 +16,7 @@
   <li><strike>Love, Death & Robots</strike></li>
   <li><strike>비정규직 아이돌</strike></li>
   <li><strike>Black Mirror</strike></li>
-  <li>Minimalism</li>
+  <li><strike>Minimalism</strike></li>
 </ul>
 
 <b> Courses: </b>
