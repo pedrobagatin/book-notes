@@ -5,9 +5,9 @@
   <li><strike>Life 3.0: Being Human in the Age of Artificial Intelligence</strike></li>
   <li><strike>Bad Blood </strike></li>
   <li> The Lean Startup </li>
+  <li> Playing with FIRE: Financial Independence Retire Early (Chapter 5) </li>
   <li> The Non-Designer's Design Book </li>
   <li> AI Superpowers: China, Silicon Valley, and the New World Order </li>
-  <li> Playing with FIRE: Financial Independence Retire Early (Chapter 5) </li>
   <li> The four-hour work week </li>
 </ul>
 
