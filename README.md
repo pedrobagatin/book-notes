@@ -21,6 +21,8 @@
   <li><strike>Black Mirror</strike></li>
   <li><strike>Minimalism</strike></li>
   <li>Ben-hur</li>
+  <li>Avatar</li>
+  <li>One Punch Man</li>
 </ul>
 
 <b> Courses: </b>
