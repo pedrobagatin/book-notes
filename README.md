@@ -11,6 +11,7 @@
   <li> The four-hour work week </li>
   <li> How smart machines think </li>
   <li> Energy and civilization a history </li>
+  <li> Elon Musk </li>
 </ul>
 
 <b> Series/Movies: </b>
