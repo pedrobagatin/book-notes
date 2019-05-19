@@ -10,6 +10,7 @@
   <li> AI Superpowers: China, Silicon Valley, and the New World Order </li>
   <li> The four-hour work week </li>
   <li> How smart machines think </li>
+  <li> Energy and civilization a history </li>
 </ul>
 
 <b> Series/Movies: </b>
