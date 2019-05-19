@@ -17,6 +17,7 @@
   <li><strike>비정규직 아이돌</strike></li>
   <li><strike>Black Mirror</strike></li>
   <li><strike>Minimalism</strike></li>
+  <li>Ben-hur</li>
 </ul>
 
 <b> Courses: </b>
