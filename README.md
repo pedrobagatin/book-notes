@@ -20,6 +20,7 @@
   <li><strike>비정규직 아이돌</strike></li>
   <li><strike>Black Mirror</strike></li>
   <li><strike>Minimalism</strike></li>
+  <li> John Wick </li>
   <li>Ben-hur</li>
   <li>Avatar</li>
   <li>One Punch Man</li>
