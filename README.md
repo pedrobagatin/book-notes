@@ -37,6 +37,7 @@
 <ul>
   <li><strike>Cave Story</strike></li>
   <li><strike>Donkey Kong Country 2</strike></li>
+  <li>Witcher 3</li>
 </ul>
 
 <b> Things that I like: </b>
