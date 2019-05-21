@@ -4,7 +4,7 @@
 <ul>
   <li><strike>Life 3.0: Being Human in the Age of Artificial Intelligence</strike></li>
   <li><strike>Bad Blood </strike></li>
-  <li> The Lean Startup </li>
+  <li><strike> The Lean Startup </strike></li>
   <li><strike> Playing with FIRE: Financial Independence Retire Early (Chapter 11) </strike></li>
   <li> The Non-Designer's Design Book </li>
   <li> AI Superpowers: China, Silicon Valley, and the New World Order </li>
