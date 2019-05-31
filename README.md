@@ -38,13 +38,3 @@
   <li><strike>Donkey Kong Country 2</strike></li>
   <li>Witcher 3</li>
 </ul>
-
-<b> Things that I like: </b>
-<ul>
-  <li>Churrascaria</li>
-  <li>Bicycle</li>
-  <li>Beach</li>
-  <li>Book</li>
-  <li>Programming</li>
-  <li>Korean</li>
-</ul>
