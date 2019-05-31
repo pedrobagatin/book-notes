@@ -9,7 +9,6 @@
   <li> The Non-Designer's Design Book </li>
   <li> AI Superpowers: China, Silicon Valley, and the New World Order </li>
   <li> How smart machines think </li>
-  <li> Energy and civilization a history </li>
   <li> Elon Musk </li>
 </ul>
 
