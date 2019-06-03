@@ -51,11 +51,11 @@
 
 <b> Things do this week: </b>
 <ul>
-  <li>Wait minimum credits</li>
+  <li>Wait minimum credits email reply</li>
   <li>Ask professor to open class</li>
   <li>Professor Seo cafe: 1) shortening 2) Document</li>
   <li>Prepare class</li>
-  <li>Send ROS package</li>
+  <li><strike>Send ROS package</strike></li>
 </ul>
 
 
