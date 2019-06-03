@@ -54,6 +54,7 @@
   <li> Shortening of the program (asking when to do)</li>
   <li>7 yellow notes and pay 매점 (2nd part)</li>
   <li>Prepare class</li>
+  <li>Check office mail box</li>
 </ul>
 
 
