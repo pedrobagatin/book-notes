@@ -52,6 +52,7 @@
 <b> Things do this week: </b>
 <ul>
   <li>Ask professor to open class</li>
+  <li> Shortening of the program (asking when to do)</li>
   <li>7 yellow notes and pay 매점 (2nd part)</li>
   <li>Prepare class</li>
 </ul>
