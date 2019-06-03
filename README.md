@@ -54,6 +54,8 @@
   <li>Wait minimum credits</li>
   <li>Ask professor to open class</li>
   <li>Professor Seo cafe: 1) shortening 2) Document</li>
+  <li>Prepare class</li>
+  <li>Send ROS package</li>
 </ul>
 
 
