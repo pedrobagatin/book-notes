@@ -51,13 +51,9 @@
 
 <b> Things do this week: </b>
 <ul>
-  <li>Wait minimum credits email reply</li>
   <li>Ask professor to open class</li>
-  <li>Personal Master Plan</li>
-  <li>Professor Seo cafe: 1) shortening 2) Document</li>
   <li>7 yellow notes and pay 매점 (2nd part)</li>
   <li>Prepare class</li>
-  <li><strike>Send ROS package</strike></li>
 </ul>
 
 
