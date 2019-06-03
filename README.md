@@ -35,5 +35,26 @@
 <ul>
   <li><strike>Cave Story</strike></li>
   <li><strike>Donkey Kong Country 2</strike></li>
+  <li>Half Life 2</li>
+  <li>Zelda's Awakening</li>
   <li>Witcher 3</li>
 </ul>
+
+<b> Things do in Korea </b>
+<ul>
+  <li><strike>안동</strike></li>
+  <li>Escape Room Cafe</li>
+  <li>Lotte Tower</li>
+  <li>Rail Bike</li>
+  <li>Lotte World</li>
+</ul>
+
+<b> Things do this week: </b>
+<ul>
+  <li>Wait minimum credits</li>
+  <li>Ask professor to open class</li>
+  <li>Professor Seo cafe: 1) shortening 2) Document</li>
+</ul>
+
+
+
