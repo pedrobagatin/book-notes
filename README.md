@@ -57,5 +57,10 @@
   <li>Check office mail box</li>
 </ul>
 
+<b> Fatigue Monitoring: </b>
+<ul>
+  <li> Add "loading" text in the label </li>
+</ul>
+
 
 
