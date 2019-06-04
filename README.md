@@ -46,7 +46,6 @@
   <li>Escape Room Cafe</li>
   <li>Lotte Tower</li>
   <li>Rail Bike</li>
-  <li>Lotte World</li>
 </ul>
 
 <b> Things do this week: </b>
