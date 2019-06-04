@@ -19,6 +19,7 @@
   <li><strike>Black Mirror</strike></li>
   <li><strike>Minimalism</strike></li>
   <li> John Wick </li>
+  <li> Bojack Horse </li>
   <li>Ben-hur</li>
   <li>Avatar</li>
   <li>One Punch Man</li>
