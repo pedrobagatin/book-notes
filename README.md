@@ -60,6 +60,7 @@
 <ul>
   <li> Add "loading" text in the label </li>
   <li> Monitoring should act as "on" and "off" </li>
+  <li> Pay office bill</li>
 </ul>
 
 
