@@ -51,16 +51,14 @@
 <b> Things do this week: </b>
 <ul>
   <li> Shortening of the program (asking when to do)</li>
-  <li>7 yellow notes and pay 매점 (2nd part)</li>
   <li>Prepare class</li>
-  <li>Check office mail box</li>
+  <li> Pay office bill</li>
 </ul>
 
 <b> Fatigue Monitoring: </b>
 <ul>
   <li> Add "loading" text in the label </li>
   <li> Monitoring should act as "on" and "off" </li>
-  <li> Pay office bill</li>
 </ul>
 
 
