@@ -53,7 +53,6 @@
 <ul>
   <li> Shortening of the program (asking when to do)</li>
   <li>Prepare class</li>
-  <li> Pay office bill</li>
 </ul>
 
 <b> Fatigue Monitoring: </b>
