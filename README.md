@@ -10,6 +10,7 @@
   <li> AI Superpowers: China, Silicon Valley, and the New World Order </li>
   <li> How smart machines think </li>
   <li> Elon Musk </li>
+  <li> A Concise History of Brazil</li>
 </ul>
 
 <b> Series/Movies: </b>
