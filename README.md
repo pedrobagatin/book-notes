@@ -25,13 +25,6 @@
   <li>One Punch Man</li>
 </ul>
 
-<b> Courses: </b>
-<ul>
-  <li>AWS</li>
-  <li>Unity 3D</li>
-  <li>Blender</li>
-</ul>
-
 <b> Games: </b>
 <ul>
   <li><strike>Cave Story</strike></li>
