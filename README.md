@@ -49,12 +49,6 @@
   <li>Rail Bike</li>
 </ul>
 
-<b> Things do this week: </b>
-<ul>
-  <li> Shortening of the program (asking when to do)</li>
-  <li>Prepare class</li>
-</ul>
-
 <b> Fatigue Monitoring: </b>
 <ul>
   <li> Add "loading" text in the label </li>
