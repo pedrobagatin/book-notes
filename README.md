@@ -6,8 +6,8 @@
   <li><strike>Bad Blood </strike></li>
   <li><strike> The Lean Startup </strike></li>
   <li><strike> Playing with FIRE: Financial Independence Retire Early </strike></li>
+  <li><strike> AI Superpowers: China, Silicon Valley, and the New World Order </strike></li>
   <li> The Non-Designer's Design Book </li>
-  <li> AI Superpowers: China, Silicon Valley, and the New World Order </li>
   <li> How smart machines think </li>
   <li> Elon Musk </li>
   <li> A Concise History of Brazil</li>
