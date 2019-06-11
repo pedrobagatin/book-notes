@@ -22,7 +22,6 @@
   <li><strike>Minimalism</strike></li>
   <li> John Wick </li>
   <li>Ben-hur</li>
-  <li>Avatar</li>
   <li>One Punch Man</li>
 </ul>
 
