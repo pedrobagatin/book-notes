@@ -40,5 +40,5 @@
   <li><strike>안동</strike></li>
   <li>Escape Room Cafe</li>
   <li>Lotte Tower</li>
-  <li>Rail Bike</li>
+  <li>Rail Park</li>
 </ul>
