@@ -42,11 +42,3 @@
   <li>Lotte Tower</li>
   <li>Rail Bike</li>
 </ul>
-
-<b> Fatigue Monitoring: </b>
-<ul>
-  <li> Show driver emotion label </li>
-</ul>
-
-
-
