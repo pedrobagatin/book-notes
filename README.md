@@ -9,7 +9,7 @@
   <li><strike> AI Superpowers: China, Silicon Valley, and the New World Order </strike></li>
   <li> The Non-Designer's Design Book </li>
   <li> How smart machines think </li>
-  <li><strike>Elon Musk <strike></li>
+  <li><strike>Elon Musk </strike></li>
   <li> 21 Lessons for the 21st Century </li>
   <li> A Concise History of Brazil</li>
 </ul>
