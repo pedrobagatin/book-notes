@@ -37,6 +37,6 @@
 <ul>
   <li><strike>안동</strike></li>
   <li>Escape Room Cafe</li>
-  <li>Lotte Tower</li>
+  <li>Lotte Tower and aquarium</li>
   <li>Rail Park</li>
 </ul>
