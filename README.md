@@ -17,7 +17,6 @@
 <b> Series/Movies: </b>
 <ul>
   <li><strike>Love, Death & Robots</strike></li>
-  <li><strike>비정규직 아이돌</strike></li>
   <li><strike>Black Mirror</strike></li>
   <li><strike>Minimalism</strike></li>
   <li> John Wick </li>
