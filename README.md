@@ -13,6 +13,7 @@
   <li><strike> Independencia Financeira </strike></li>
   <li> 21 Lessons for the 21st Century </li>
   <li> A Concise History of Brazil</li>
+  <li> The 4-Hour Workweek </li>
 </ul>
 
 <b> Series/Movies: </b>
