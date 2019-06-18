@@ -43,3 +43,10 @@
   <li>Lotte Tower and aquarium</li>
   <li>Rail Park</li>
 </ul>
+
+<b> Korean Words </b>
+<ul>
+  <li>부지런하다: diligent</li>
+  <li>잘훈련되다: well trained</li>
+  <li>겸손하다: humble</li>
+</ul>
