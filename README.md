@@ -14,6 +14,7 @@
   <li> 21 Lessons for the 21st Century </li>
   <li> A Concise History of Brazil</li>
   <li> The 4-Hour Workweek </li>
+  <li> Deep Learning with Python </li>
 </ul>
 
 <b> Series/Movies: </b>
