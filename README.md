@@ -50,6 +50,7 @@
   <li>Wordpress (website creation)</li>
   <li>Wufoo (from creation, payment form too)</li>
   <li>istockphoto(royalty free photos and materials)</li>
+  <li>google analytics (web traffic analytics)</li>
 </ul>
 
 <b> Korean Words </b>
