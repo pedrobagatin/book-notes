@@ -15,6 +15,7 @@
   <li> A Concise History of Brazil</li>
   <li> The 4-Hour Workweek </li>
   <li> Deep Learning with Python </li>
+  <li> Why Nations Fail: The Origins of Power, Prosperity, and Poverty </li>
 </ul>
 
 <b> Series/Movies: </b>
