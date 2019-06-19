@@ -46,9 +46,10 @@
 
 <b> Tools </b>
 <ul>
-  <li>Weebly</li>
-  <li>Wordpress</li>
-  <li>Wufoo</li>
+  <li>Weebly (website creation)</li>
+  <li>Wordpress (website creation)</li>
+  <li>Wufoo (from creation, payment form too)</li>
+  <li>istockphoto(royalty free photos and materials)</li>
 </ul>
 
 <b> Korean Words </b>
