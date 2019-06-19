@@ -44,6 +44,12 @@
   <li>Rail Park</li>
 </ul>
 
+<b> Tools </b>
+<ul>
+  <li>Weebly</li>
+  <li>Wordpress</li>
+</ul>
+
 <b> Korean Words </b>
 <ul>
   <li>부지런하다: diligent</li>
