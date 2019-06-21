@@ -14,6 +14,7 @@
   <li> Deep Learning with Python </li>
   <li> The Wealth of the Nations </li>
   <li> Why Nations Fail: The Origins of Power, Prosperity, and Poverty </li>
+  <li> The Alchemist </li>
 </ul>
 
 <b> Series/Movies: </b>
