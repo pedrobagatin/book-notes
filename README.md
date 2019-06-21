@@ -7,7 +7,6 @@
   <li><strike> The Lean Startup </strike></li>
   <li><strike> Playing with FIRE: Financial Independence Retire Early </strike></li>
   <li><strike> AI Superpowers: China, Silicon Valley, and the New World Order </strike></li>
-  <li> The Non-Designer's Design Book </li>
   <li><strike>Elon Musk </strike></li>
   <li><strike> Independencia Financeira </strike></li>
   <li> 21 Lessons for the 21st Century </li>
