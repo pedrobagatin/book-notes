@@ -26,6 +26,7 @@
   <li> John Wick </li>
   <li>Ben-hur</li>
   <li>One Punch Man</li>
+  <li> A Historia do Brasil: Boris Fausto </li>
 </ul>
 
 <b> Games: </b>
