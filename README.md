@@ -9,8 +9,8 @@
   <li><strike> AI Superpowers: China, Silicon Valley, and the New World Order </strike></li>
   <li><strike>Elon Musk </strike></li>
   <li><strike> Independencia Financeira </strike></li>
-  <li> 21 Lessons for the 21st Century </li>
   <li><strike> The 4-Hour Workweek </strike></li>
+  <li> 21 Lessons for the 21st Century </li>
   <li> Deep Learning with Python </li>
   <li> The Wealth of the Nations </li>
   <li> Why Nations Fail: The Origins of Power, Prosperity, and Poverty </li>
