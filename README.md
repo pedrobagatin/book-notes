@@ -12,7 +12,6 @@
   <li><strike> The 4-Hour Workweek </strike></li>
   <li> 21 Lessons for the 21st Century </li>
   <li> Deep Learning with Python </li>
-  <li> The Wealth of the Nations </li>
   <li> The Alchemist </li>
 </ul>
 
