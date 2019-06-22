@@ -12,7 +12,7 @@
   <li><strike> The 4-Hour Workweek </strike></li>
   <li> 21 Lessons for the 21st Century </li>
   <li> Deep Learning with Python </li>
-  <li> The Alchemist </li>
+  <li> Guia Mochileiro das Galaxias </li>
 </ul>
 
 <b> Series/Movies: </b>
