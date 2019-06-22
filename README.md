@@ -13,7 +13,6 @@
   <li> 21 Lessons for the 21st Century </li>
   <li> Deep Learning with Python </li>
   <li> The Wealth of the Nations </li>
-  <li> Why Nations Fail: The Origins of Power, Prosperity, and Poverty </li>
   <li> The Alchemist </li>
 </ul>
 
