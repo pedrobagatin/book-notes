@@ -13,6 +13,7 @@
   <li> 21 Lessons for the 21st Century </li>
   <li> Deep Learning with Python </li>
   <li> Guia Mochileiro das Galaxias </li>
+  <li> Investimentos Inteligentes</li>
 </ul>
 
 <b> Series/Movies: </b>
