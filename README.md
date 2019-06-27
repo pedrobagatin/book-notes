@@ -53,9 +53,9 @@
   <li>google analytics (web traffic analytics)</li>
 </ul>
 
-<b> Korean Words </b>
+<b> Projects </b>
 <ul>
-  <li>부지런하다: diligent</li>
-  <li>잘훈련되다: well trained</li>
-  <li>겸손하다: humble</li>
+  <li> Site de imobiliaria </li>
+  <li> Excel de dados imobiliarios </li>
+  <li> Estudar S&P 500</li>
 </ul>
