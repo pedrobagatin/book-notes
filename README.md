@@ -32,6 +32,7 @@
   <li><strike>Cave Story</strike></li>
   <li><strike>Donkey Kong Country 2</strike></li>
   <li>Half Life 2</li>
+  <li>Zelda Breath of the Wild</li>
   <li>Zelda's Awakening</li>
   <li>Witcher 3</li>
 </ul>
