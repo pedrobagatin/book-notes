@@ -24,7 +24,7 @@
   <li> John Wick </li>
   <li>Ben-hur</li>
   <li>One Punch Man</li>
-  <li> A Historia do Brasil: Boris Fausto </li>
+  <li><strike> A Historia do Brasil: Boris Fausto </strike></li>
   <li> A casa de papel </li>
 </ul>
 
