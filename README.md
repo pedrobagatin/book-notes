@@ -26,6 +26,8 @@
   <li>One Punch Man</li>
   <li><strike> A Historia do Brasil: Boris Fausto </strike></li>
   <li> A casa de papel </li>
+  <li> Wall-e </li>
+  <li> Monty Python and the Holy Grail </li>
 </ul>
 
 <b> Games: </b>
