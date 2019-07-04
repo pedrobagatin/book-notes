@@ -10,7 +10,7 @@
   <li><strike>Elon Musk </strike></li>
   <li><strike> Independencia Financeira </strike></li>
   <li><strike> The 4-Hour Workweek </strike></li>
-  <li> 21 Lessons for the 21st Century </li>
+  <li><strike> 21 Lessons for the 21st Century </strike></li>
   <li> Deep Learning with Python </li>
   <li> Guia Mochileiro das Galaxias </li>
   <li> Investimentos Inteligentes (capitulo 2)</li>
@@ -28,7 +28,7 @@
   <li><strike> A Historia do Brasil: Boris Fausto </strike></li>
   <li> A casa de papel </li>
   <li> Wall-e </li>
-  <li> Monty Python and the Holy Grail </li>
+  <li><strike> Monty Python and the Holy Grail </strike></li>
   <li> Zoolander </li>
   <li> Westworld </li>
 </ul>
