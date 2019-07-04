@@ -50,13 +50,12 @@
   <li>Rail Park</li>
 </ul>
 
-<b> Tools </b>
+<b> Courses </b>
 <ul>
-  <li>Weebly (website creation)</li>
-  <li>Wordpress (website creation)</li>
-  <li>Wufoo (from creation, payment form too)</li>
-  <li>istockphoto(royalty free photos and materials)</li>
-  <li>google analytics (web traffic analytics)</li>
+  <li>Joseph Redmon (20 lessons)</li>
+  <li>Udacity Computer Vision (70 lessons)</li>
+  <li>Data Science with Python</li>
+  <li>Deep learning with Python</li>
 </ul>
 
 <b> Projects </b>
