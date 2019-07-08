@@ -11,6 +11,7 @@
   <li><strike> Independencia Financeira </strike></li>
   <li><strike> The 4-Hour Workweek </strike></li>
   <li><strike> 21 Lessons for the 21st Century </strike></li>
+  <li><strike> Investimentos Inteligentes </strike></li>
   <li> Deep Learning with Python </li>
   <li> Guia Mochileiro das Galaxias </li>
   <li> Investimentos Inteligentes </li>
