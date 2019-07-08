@@ -13,7 +13,7 @@
   <li><strike> 21 Lessons for the 21st Century </strike></li>
   <li> Deep Learning with Python </li>
   <li> Guia Mochileiro das Galaxias </li>
-  <li> Investimentos Inteligentes (capitulo 2)</li>
+  <li> Investimentos Inteligentes </li>
   <li> Surely You're Joking, Mr. Feynman!</li>
 </ul>
 
@@ -22,15 +22,12 @@
   <li><strike>Love, Death & Robots</strike></li>
   <li><strike>Black Mirror</strike></li>
   <li><strike>Minimalism</strike></li>
-  <li> John Wick </li>
-  <li>Ben-hur</li>
-  <li>One Punch Man</li>
   <li><strike> A Historia do Brasil: Boris Fausto </strike></li>
-  <li> A casa de papel </li>
-  <li> Wall-e </li>
+  <li><strike> Wall-e </strike></li>
   <li><strike> Monty Python and the Holy Grail </strike></li>
   <li> Zoolander </li>
-  <li> Westworld </li>
+  <li>Ben-hur</li>
+  <li> John Wick </li>
 </ul>
 
 <b> Games: </b>
@@ -40,7 +37,6 @@
   <li>Half Life 2</li>
   <li>Zelda Breath of the Wild</li>
   <li>Zelda's Awakening</li>
-  <li>Witcher 3</li>
 </ul>
 
 <b> Things do in Korea </b>
