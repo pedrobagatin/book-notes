@@ -12,6 +12,7 @@
   <li><strike> The 4-Hour Workweek </strike></li>
   <li><strike> 21 Lessons for the 21st Century </strike></li>
   <li><strike> Investimentos Inteligentes </strike></li>
+  <li><strike> O Alquimista </strike></li>
   <li>Finish what you start</li>
   <li> Deep Learning with Python </li>
   <li> Guia Mochileiro das Galaxias </li>
