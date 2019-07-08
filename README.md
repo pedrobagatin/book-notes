@@ -41,7 +41,6 @@
 
 <b> Things do in Korea </b>
 <ul>
-  <li><strike>안동</strike></li>
   <li>Escape Room Cafe</li>
   <li>Lotte Tower and aquarium</li>
   <li>Rail Park</li>
@@ -49,15 +48,6 @@
 
 <b> Courses </b>
 <ul>
-  <li>Joseph Redmon (20 lessons)</li>
   <li>Udacity Computer Vision (70 lessons)</li>
-  <li>Data Science with Python</li>
   <li>Deep learning with Python</li>
-</ul>
-
-<b> Projects </b>
-<ul>
-  <li> Site de imobiliaria </li>
-  <li> Excel de dados imobiliarios </li>
-  <li> Estudar S&P 500</li>
 </ul>
