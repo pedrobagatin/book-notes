@@ -14,7 +14,6 @@
   <li><strike> Investimentos Inteligentes </strike></li>
   <li> Deep Learning with Python </li>
   <li> Guia Mochileiro das Galaxias </li>
-  <li> Investimentos Inteligentes </li>
   <li> Surely You're Joking, Mr. Feynman!</li>
 </ul>
 
