@@ -27,9 +27,10 @@
   <li><strike> A Historia do Brasil: Boris Fausto </strike></li>
   <li><strike> Wall-e </strike></li>
   <li><strike> Monty Python and the Holy Grail </strike></li>
-  <li> Zoolander </li>
+  <li>Zoolander </li>
   <li>Ben-hur</li>
-  <li> John Wick </li>
+  <li>John Wick </li>
+  <li>De Volta para o Futuro</li>
 </ul>
 
 <b> Games: </b>
@@ -39,6 +40,7 @@
   <li>Half Life 2</li>
   <li>Zelda Breath of the Wild</li>
   <li>Zelda's Awakening</li>
+  <li>Minecraft</li>
 </ul>
 
 <b> Things do in Korea </b>
