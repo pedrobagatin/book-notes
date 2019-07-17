@@ -18,6 +18,7 @@
   <li> Guia Mochileiro das Galaxias </li>
   <li> Surely You're Joking, Mr. Feynman!</li>
   <li> Why we sleep </li>
+  <li> How smart machines think? </li>
 </ul>
 
 <b> Series/Movies: </b>
