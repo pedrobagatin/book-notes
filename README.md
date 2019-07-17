@@ -19,6 +19,7 @@
   <li> Surely You're Joking, Mr. Feynman!</li>
   <li> Why we sleep </li>
   <li> How smart machines think? </li>
+  <li> The Hundred-Page Machine Learning Book </li>
 </ul>
 
 <b> Series/Movies: </b>
