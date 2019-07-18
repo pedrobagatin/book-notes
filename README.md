@@ -18,7 +18,7 @@
   <li> Guia Mochileiro das Galaxias </li>
   <li> Surely You're Joking, Mr. Feynman!</li>
   <li> Why we sleep </li>
-  <li> How smart machines think? </li>
+  <li> How smart machines think? (Chapter 5)</li>
   <li> The Hundred-Page Machine Learning Book </li>
 </ul>
 
