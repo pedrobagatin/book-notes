@@ -14,12 +14,9 @@
   <li><strike> Investimentos Inteligentes </strike></li>
   <li><strike> O Alquimista </strike></li>
   <li>Finish what you start</li>
-  <li> Deep Learning with Python </li>
+  <li><strke> How smart machines think? </strke></li>
   <li> Guia Mochileiro das Galaxias </li>
   <li> Surely You're Joking, Mr. Feynman!</li>
-  <li> Why we sleep </li>
-  <li> How smart machines think? (Chapter 5)</li>
-  <li> The Hundred-Page Machine Learning Book </li>
   <li>A Short History of Nearly Everything </li>
 </ul>
 
