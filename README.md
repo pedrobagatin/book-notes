@@ -20,6 +20,7 @@
   <li> Why we sleep </li>
   <li> How smart machines think? (Chapter 5)</li>
   <li> The Hundred-Page Machine Learning Book </li>
+  <li>A Short History of Nearly Everything </li>
 </ul>
 
 <b> Series/Movies: </b>
