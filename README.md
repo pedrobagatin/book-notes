@@ -13,7 +13,7 @@
   <li><strike> 21 Lessons for the 21st Century </strike></li>
   <li><strike> Investimentos Inteligentes </strike></li>
   <li><strike> O Alquimista </strike></li>
-  <li><strke> How smart machines think? </strke></li>
+  <li><strike> How smart machines think? </strike></li>
   <li> Guia Mochileiro das Galaxias </li>
   <li> Surely You're Joking, Mr. Feynman!</li>
   <li>Catch 22</li>
