@@ -49,9 +49,3 @@
   <li><strike>Lotte Tower</strike></li>
   <li>Rail Park</li>
 </ul>
-
-<b> Courses </b>
-<ul>
-  <li>Udacity Computer Vision (70 lessons)</li>
-  <li>Deep learning with Python</li>
-</ul>
