@@ -35,7 +35,7 @@
   <li><strike>Zoolander </strike></li>
   <li>Ben-hur</li>
   <li>John Wick </li>
-  <li>De Volta para o Futuro</li>
+  <li><strike>De Volta para o Futuro</strike></li>
   <li>IT</li>
 </ul>
 
