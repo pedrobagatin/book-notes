@@ -40,16 +40,13 @@
 <ul>
   <li><strike>Cave Story</strike></li>
   <li><strike>Donkey Kong Country 2</strike></li>
-  <li>Half Life 2</li>
-  <li>Zelda Breath of the Wild</li>
   <li>Zelda's Awakening</li>
-  <li>Minecraft</li>
 </ul>
 
 <b> Things do in Korea </b>
 <ul>
   <li>Escape Room Cafe</li>
-  <li>Lotte Tower and aquarium</li>
+  <li><strike>Lotte Tower</strike></li>
   <li>Rail Park</li>
 </ul>
 
