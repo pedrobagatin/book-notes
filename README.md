@@ -29,7 +29,7 @@
   <li><strike> A Historia do Brasil: Boris Fausto </strike></li>
   <li><strike> Wall-e </strike></li>
   <li><strike> Monty Python and the Holy Grail </strike></li>
-  <li>Zoolander </li>
+  <li><strike>Zoolander </strike></li>
   <li>Ben-hur</li>
   <li>John Wick </li>
   <li>De Volta para o Futuro</li>
