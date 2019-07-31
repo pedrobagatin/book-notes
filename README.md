@@ -21,7 +21,8 @@
   <li>Internet is a Playground</li>
   <li>Deep Work</li>
   <li>A mind for numbers</li>
-  <li>Unfu*k Yourself/li>
+  <li><strike>Unfu*k Yourself</strike></li>
+    
 </ul>
 
 <b> Series/Movies: </b>
