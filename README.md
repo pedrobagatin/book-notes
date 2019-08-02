@@ -20,7 +20,7 @@
   <li>Catch 22</li>
   <li>Internet is a Playground</li>
   <li>Deep Work</li>
-  <li>A mind for numbers</li>
+  <li><strike>A mind for numbers</strike></li>
   <li><strike>Unfu*k Yourself</strike></li>
   <li>The click moment</li>
     
