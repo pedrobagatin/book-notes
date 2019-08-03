@@ -54,3 +54,10 @@
   <li><strike>Lotte Tower</strike></li>
   <li>Rail Park</li>
 </ul>
+
+<b> Things to do:</b>
+<ul>
+  <li>Send email (javascript)</li>
+  <li>Check links on the Social</li>
+  <li>Deploy website</li>
+</ul>
