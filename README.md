@@ -57,7 +57,6 @@
 
 <b> Things to do:</b>
 <ul>
-  <li>Send email (javascript)</li>
-  <li>Check links on the Social</li>
-  <li>Deploy website</li>
+  <li>HTTPS CERTIFICATE</li>
+  <li>Icon on the tab</li>
 </ul>
