@@ -56,7 +56,7 @@
   <li>Rail Park</li>
 </ul>
 
-<b> Things to do:</b>
+<b> Topik: </b>
 <ul>
-  <li>Icon on the tab</li>
+  <li>27 중급: 45-60 (10 out of 15 right) </li>
 </ul>
