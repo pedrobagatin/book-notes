@@ -58,6 +58,5 @@
 
 <b> Things to do:</b>
 <ul>
-  <li>HTTPS CERTIFICATE</li>
   <li>Icon on the tab</li>
 </ul>
