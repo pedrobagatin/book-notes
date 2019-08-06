@@ -24,6 +24,7 @@
   <li><strike>A mind for numbers</strike></li>
   <li><strike>Unfu*k Yourself</strike></li>
   <li>The click moment</li>
+  <li>The Hard Thing About Hard Things</li>
     
 </ul>
 
@@ -40,6 +41,7 @@
   <li>John Wick </li>
   <li><strike>De Volta para o Futuro</strike></li>
   <li>IT</li>
+  <li>Exterminador do Futuro</li>
 </ul>
 
 <b> Games: </b>
