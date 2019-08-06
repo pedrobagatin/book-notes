@@ -24,7 +24,7 @@
   <li><strike>A mind for numbers</strike></li>
   <li><strike>Unfu*k Yourself</strike></li>
   <li>The click moment</li>
-  <li>The Hard Thing About Hard Things</li>
+  <li><strike>The Hard Thing About Hard Things</strike></li>
   <li>Hooked</li>
 </ul>
 
