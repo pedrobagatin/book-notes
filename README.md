@@ -25,7 +25,7 @@
   <li><strike>Unfu*k Yourself</strike></li>
   <li>The click moment</li>
   <li>The Hard Thing About Hard Things</li>
-    
+  <li>Hooked</li>
 </ul>
 
 <b> Series/Movies: </b>
