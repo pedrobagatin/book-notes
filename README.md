@@ -16,9 +16,8 @@
   <li><strike> How smart machines think? </strike></li>
   <li><strike>Digital Minimalism</strike></li>
   <li> Guia Mochileiro das Galaxias </li>
-  <li> Surely You're Joking, Mr. Feynman!</li>
   <li>Catch 22</li>
-  <li>Internet is a Playground</li>
+  <li><strike>Internet is a Playground</strike></li>
   <li>Deep Work</li>
   <li>Ender's Game</li>
   <li><strike>A mind for numbers</strike></li>
