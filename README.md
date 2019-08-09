@@ -26,6 +26,7 @@
   <li><strike>The Hard Thing About Hard Things</strike></li>
   <li>Moonwalking with Einstein</li>
   <li>Hooked</li>
+  <li>The Everything Store: Jeff Bezos and the Age of Amazon</li>
 </ul>
 
 <b> Series/Movies: </b>
