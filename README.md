@@ -27,6 +27,7 @@
   <li>Moonwalking with Einstein</li>
   <li>Hooked</li>
   <li>The Everything Store: Jeff Bezos and the Age of Amazon</li>
+  <li>Adaptive Space: How GM and Other Companies are Positively Disrupting Themselves and Transforming into Agile Organizations</li>
 </ul>
 
 <b> Series/Movies: </b>
