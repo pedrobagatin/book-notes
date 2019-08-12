@@ -44,7 +44,6 @@
   <li>John Wick </li>
   <li><strike>De Volta para o Futuro</strike></li>
   <li>IT</li>
-  <li>Exterminador do Futuro</li>
 </ul>
 
 <b> Games: </b>
