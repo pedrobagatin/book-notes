@@ -29,6 +29,7 @@
   <li>The Everything Store: Jeff Bezos and the Age of Amazon</li>
   <li>Adaptive Space: How GM and Other Companies are Positively Disrupting Themselves and Transforming into Agile Organizations</li>
   <li>The Baldwin Locomotive Works</li>
+  <li>Breves respostas para grandes questões</li>
 </ul>
 
 <b> Series/Movies: </b>
