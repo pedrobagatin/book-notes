@@ -22,7 +22,7 @@
   <li>Ender's Game</li>
   <li><strike>A mind for numbers</strike></li>
   <li><strike>Unfu*k Yourself</strike></li>
-  <li>The click moment</li>
+  <li><strike>The click moment</strike></li>
   <li><strike>The Hard Thing About Hard Things</strike></li>
   <li>Moonwalking with Einstein</li>
   <li>Hooked</li>
