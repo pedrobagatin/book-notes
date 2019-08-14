@@ -63,6 +63,11 @@
   <li>오삼불고기</li>
 </ul>
 
+<b> Pedro AI </b>
+<ul>
+  <li>Create a new Tab ("Sleep Detection")</li>
+</ul>
+
 <b> Topik: </b>
 <ul>
   <li>27 중급: 45-60 (10 out of 15 right) </li>
