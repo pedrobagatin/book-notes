@@ -59,6 +59,8 @@
   <li>Escape Room Cafe</li>
   <li><strike>Lotte Tower</strike></li>
   <li>Rail Park</li>
+  <li>Domino's Pizza</li>
+  <li>오삼불고기</li>
 </ul>
 
 <b> Topik: </b>
