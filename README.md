@@ -66,6 +66,8 @@
 <b> Pedro AI </b>
 <ul>
   <li>Create a new Tab ("Sleep Detection")</li>
+  <li>Ar-condicionado</li>
+  <li>Ventilador Portatil</li>
 </ul>
 
 <b> Topik: </b>
