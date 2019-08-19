@@ -45,6 +45,8 @@
   <li>John Wick </li>
   <li><strike>De Volta para o Futuro</strike></li>
   <li>IT</li>
+  <li>Shazam</li>
+  <li>Aquaman</li>
 </ul>
 
 <b> Games: </b>
