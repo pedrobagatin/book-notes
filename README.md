@@ -18,7 +18,7 @@
   <li> Guia Mochileiro das Galaxias </li>
   <li>Catch 22</li>
   <li><strike>Internet is a Playground</strike></li>
-  <li>Deep Work</li>
+  <li><strike>Deep Work</strike></li>
   <li>Ender's Game</li>
   <li><strike>A mind for numbers</strike></li>
   <li><strike>Unfu*k Yourself</strike></li>
