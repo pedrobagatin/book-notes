@@ -71,6 +71,9 @@
   <li>Create a new Tab ("Sleep Detection")</li>
   <li>Ar-condicionado</li>
   <li>Ventilador Portatil</li>
+  <li>Cha (Jasmine Green Tea) Taiwan</li>
+  <li>Loja de conveniencia</li>
+  <li>Lancheira/lunch box</li>
 </ul>
 
 <b> Topik: </b>
