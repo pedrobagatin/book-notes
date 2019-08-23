@@ -69,6 +69,7 @@
 <b> Pedro AI </b>
 <ul>
   <li>Create a new Tab ("Sleep Detection")</li>
+  <li>Cell Phone Detection</li>
   <li>Ar-condicionado</li>
   <li>Ventilador Portatil</li>
   <li>Cha (Jasmine Green Tea) Taiwan</li>
