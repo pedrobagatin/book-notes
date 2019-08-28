@@ -30,6 +30,7 @@
   <li>Adaptive Space: How GM and Other Companies are Positively Disrupting Themselves and Transforming into Agile Organizations</li>
   <li>The Baldwin Locomotive Works</li>
   <li>Breves respostas para grandes questões</li>
+  <li>마법사와 함께한 </li>
 </ul>
 
 <b> Series/Movies: </b>
