@@ -25,8 +25,8 @@
   <li><strike>The click moment</strike></li>
   <li><strike>The Hard Thing About Hard Things</strike></li>
   <li>Moonwalking with Einstein</li>
-  <li>Hooked</li>
-  <li>The Everything Store: Jeff Bezos and the Age of Amazon</li>
+  <li><strike>Hooked</strike></li>
+  <li><strike>The Everything Store: Jeff Bezos and the Age of Amazon</strike></li>
   <li>Adaptive Space: How GM and Other Companies are Positively Disrupting Themselves and Transforming into Agile Organizations</li>
   <li>The Baldwin Locomotive Works</li>
   <li>Breves respostas para grandes questões</li>
