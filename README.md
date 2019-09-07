@@ -53,7 +53,7 @@
   <li>Breakfast at Tiffany's</li>
   <li><strike>The Big Lebowski</strike></li>
   <li>Leon</li>
-  <li>Jumanji</li>
+  <li><strike>Jumanji</strike></li>
   <li>Crazy stupid love</li>
   <li>Creed</li>
 </ul>
