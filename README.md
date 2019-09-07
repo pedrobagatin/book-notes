@@ -31,6 +31,8 @@
   <li>The Baldwin Locomotive Works</li>
   <li>Breves respostas para grandes questões</li>
   <li>마법사와 함께한 </li>
+  <li>Young men and fire</li>
+  <li>Hit Refresh: The Quest to Rediscover Microsoft’s</li>
 </ul>
 
 <b> Series/Movies: </b>
@@ -49,6 +51,8 @@
   <li>Shazam</li>
   <li>Aquaman</li>
   <li>Breakfast at Tiffany's</li>
+  <li><strike>The Big Lebowski</strike></li>
+  <li>Leon</li>
 </ul>
 
 <b> Games: </b>
