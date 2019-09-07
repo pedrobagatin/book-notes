@@ -54,7 +54,6 @@
   <li><strike>The Big Lebowski</strike></li>
   <li>Leon</li>
   <li><strike>Jumanji</strike></li>
-  <li>Crazy stupid love</li>
   <li>Creed</li>
 </ul>
 
