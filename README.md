@@ -30,6 +30,7 @@
   <li>마법사와 함께한 </li>
   <li><strike>Hit Refresh: The Quest to Rediscover Microsoft’s</strike></li>
   <li>Smart people should build things</li>
+  <li>Guns, germs and steel </li>
 </ul>
 
 <b> Series/Movies: </b>
