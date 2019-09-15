@@ -27,12 +27,8 @@
   <li>Moonwalking with Einstein</li>
   <li><strike>Hooked</strike></li>
   <li><strike>The Everything Store: Jeff Bezos and the Age of Amazon</strike></li>
-  <li>Adaptive Space: How GM and Other Companies are Positively Disrupting Themselves and Transforming into Agile Organizations</li>
-  <li>The Baldwin Locomotive Works</li>
-  <li>Breves respostas para grandes questões</li>
   <li>마법사와 함께한 </li>
-  <li>Young men and fire</li>
-  <li>Hit Refresh: The Quest to Rediscover Microsoft’s</li>
+  <li><strike>Hit Refresh: The Quest to Rediscover Microsoft’s</strike></li>
   <li>Smart people should build things</li>
 </ul>
 
@@ -48,9 +44,7 @@
   <li>Ben-hur</li>
   <li>John Wick </li>
   <li><strike>De Volta para o Futuro</strike></li>
-  <li>IT</li>
-  <li>Shazam</li>
-  <li>Aquaman</li>
+  <li><strike>IT</strike></li>
   <li>Breakfast at Tiffany's</li>
   <li><strike>The Big Lebowski</strike></li>
   <li>Leon</li>
@@ -74,8 +68,10 @@
   <li>오삼불고기</li>
 </ul>
 
-<b> Pedro AI </b>
+<b> Rascunhos </b>
 <ul>
+  <li>mostrar ear</li>
+  <li>gravar videos</li>
   <li>Create a new Tab ("Sleep Detection")</li>
   <li>Cell Phone Detection</li>
   <li>Ar-condicionado</li>
