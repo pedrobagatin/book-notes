@@ -69,10 +69,8 @@
   <li>오삼불고기</li>
 </ul>
 
-<b> Rascunhos </b>
+<b> Ideas: </b>
 <ul>
-  <li>mostrar ear</li>
-  <li>gravar videos</li>
   <li>Create a new Tab ("Sleep Detection")</li>
   <li>Cell Phone Detection</li>
   <li>Ar-condicionado</li>
@@ -83,7 +81,8 @@
   <li>Mix coffee/Kanu</li>
 </ul>
 
-<b> Topik: </b>
+<b> Sleeping detection: </b>
 <ul>
-  <li>27 중급: 45-60 (10 out of 15 right) </li>
+  <li>Start from (.exe) file </li>
+  <li>Loading screen faster</li>
 </ul>
