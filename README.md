@@ -68,6 +68,9 @@
   <li>Rail Park</li>
   <li>Domino's Pizza</li>
   <li>오삼불고기</li>
+  <li>Seoraksan</li>
+  <li>Incheon island</li>
+  <li>Yeosu</li>
 </ul>
 
 <b> Ideas: </b>
