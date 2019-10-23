@@ -83,6 +83,6 @@
 
 <b> Goals: </b>
 <ul>
-  <strike>TOPIK 5</strike<
-  <strike>AWS developer associate</strike>
+  <li>TOPIK 5</li>
+  <li>AWS developer associate</li>
 </ul>
