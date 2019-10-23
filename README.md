@@ -58,17 +58,13 @@
 <ul>
   <li><strike>Cave Story</strike></li>
   <li><strike>Donkey Kong Country 2</strike></li>
-  <li>Zelda's Awakening</li>
+  <li><strike>Zelda's Awakening</strike></li>
 </ul>
 
 <b> Things do in Korea </b>
 <ul>
-  <li>Escape Room Cafe</li>
   <li><strike>Lotte Tower</strike></li>
-  <li>Rail Park</li>
-  <li>Domino's Pizza</li>
-  <li>오삼불고기</li>
-  <li>Seoraksan</li>
+  <li><strike>Seoraksan</strike></li>
   <li>Incheon island</li>
   <li>Yeosu</li>
 </ul>
@@ -85,8 +81,8 @@
   <li>Mix coffee/Kanu</li>
 </ul>
 
-<b> Sleeping detection: </b>
+<b> Goals: </b>
 <ul>
-  <li>Start from (.exe) file </li>
-  <li>Loading screen faster</li>
+  <strike>TOPIK 5</strike<
+  <strike>AWS developer associate</strike>
 </ul>
