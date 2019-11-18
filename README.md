@@ -24,7 +24,7 @@
   <li><strike>Unfu*k Yourself</strike></li>
   <li><strike>The click moment</strike></li>
   <li><strike>The Hard Thing About Hard Things</strike></li>
-  <li>Moonwalking with Einstein</li>
+  <li><strike>Moonwalking with Einstein</strike></li>
   <li><strike>Hooked</strike></li>
   <li><strike>The Everything Store: Jeff Bezos and the Age of Amazon</strike></li>
   <li>마법사와 함께한 </li>
@@ -82,8 +82,10 @@
   <li>Mix coffee/Kanu</li>
 </ul>
 
-<b> Goals: </b>
+<b> Goals/Emprego: </b>
 <ul>
   <li>TOPIK 5</li>
   <li>AWS developer associate</li>
+  <li>Samsung Carreiras</li>
+  <li>KOTRA (form)</li>
 </ul>
