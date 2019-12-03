@@ -32,12 +32,11 @@
   <li><strike>Smart people should build things</strike></li>
   <li><strike>Guns, germs and steel</strike></li>
   <li><strike>Mastermind</strike></li>
-  <li>The millionaire next door</li>
+  <li><strike>The millionaire next door</strike></li>
   <li>Raise Your Game</li>
   <li>The Economics of Urban Transportation </li>
   <li><strike>Company of one </strike></li>
   <li>The Remains of the Day</li>
-  <li><strike>Millionaire Next Door</strike></li>
 </ul>
 
 <b> Series/Movies: </b>
