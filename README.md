@@ -38,7 +38,6 @@
   <li><strike>Company of one </strike></li>
   <li>The Remains of the Day</li>
   <li><strike>Screw it, let's do it</strike></li>
-  <li>The Remains of the Day</li>
 </ul>
 
 <b> Series/Movies: </b>
