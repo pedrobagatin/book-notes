@@ -38,6 +38,8 @@
   <li><strike>Company of one </strike></li>
   <li>The Remains of the Day</li>
   <li><strike>Screw it, let's do it</strike></li>
+  <li>Founders at Work</li>
+  <li>How to Transform Your Ideas into Software Products</li>
 </ul>
 
 <b> Series/Movies: </b>
