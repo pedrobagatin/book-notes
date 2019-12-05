@@ -93,4 +93,5 @@
 <b> Goals </b>
 <ul>
   <li>TOPIK 5</li>
+  <li>Flutter (youtube, udemy)</li>
 </ul>
