@@ -33,7 +33,7 @@
   <li><strike>Guns, germs and steel</strike></li>
   <li><strike>Mastermind</strike></li>
   <li><strike>The millionaire next door</strike></li>
-  <li>Raise Your Game</li>
+  <li><strike>Raise Your Game</strike></li>
   <li>The Economics of Urban Transportation </li>
   <li><strike>Company of one </strike></li>
   <li>The Remains of the Day</li>
