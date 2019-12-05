@@ -67,6 +67,7 @@
   <li><strike>Cave Story</strike></li>
   <li><strike>Donkey Kong Country 2</strike></li>
   <li><strike>Zelda's Awakening</strike></li>
+  <li>GTA 5</li>
 </ul>
 
 <b> Things do in Korea </b>
