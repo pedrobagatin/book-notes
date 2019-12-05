@@ -89,10 +89,7 @@
   <li>Mix coffee/Kanu</li>
 </ul>
 
-<b> Goals/Emprego: </b>
+<b> Goals </b>
 <ul>
   <li>TOPIK 5</li>
-  <li>AWS developer associate</li>
-  <li>Samsung Carreiras</li>
-  <li>KOTRA (form)</li>
 </ul>
