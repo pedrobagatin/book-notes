@@ -39,7 +39,7 @@
   <li>The Remains of the Day</li>
   <li><strike>Screw it, let's do it</strike></li>
   <li>Flutter</li>
-  <li>Investing for Dummies</li>
+  <li>Investing for Dummies (chapter 3)</li>
 </ul>
 
 <b> Series/Movies: </b>
