@@ -42,6 +42,7 @@
   <li>Investing for Dummies (chapter 19)</li>
   <li>A random walk down Wall Street</li>
   <li>Built to Last</li>
+  <li>Made in America</li>
 </ul>
 
 <b> Series/Movies: </b>
