@@ -39,7 +39,7 @@
   <li>The Remains of the Day</li>
   <li><strike>Screw it, let's do it</strike></li>
   <li>Flutter</li>
-  <li>Investing for Dummies (chapter 19)</li>
+  <li><strike>Investing for Dummies (chapter 19)</strike></li>
   <li>A random walk down Wall Street</li>
   <li>Built to Last</li>
   <li>Made in America</li>
