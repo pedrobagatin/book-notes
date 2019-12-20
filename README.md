@@ -65,6 +65,9 @@
   <li>Leon</li>
   <li><strike>Jumanji</strike></li>
   <li>Creed</li>
+  <li>Matrix</li>
+  <li>The Howl's Moving Castle</li>
+  <li>My Neighbor Tororo</li>
 </ul>
 
 <b> Games: </b>
@@ -73,6 +76,10 @@
   <li><strike>Donkey Kong Country 2</strike></li>
   <li><strike>Zelda's Awakening</strike></li>
   <li>GTA 5</li>
+  <li>Zelda BOTW</li>
+  <li>Papers, please!</li>
+  <li>Metal Gear Solid</li>
+  <li>Stardew valley</li>
 </ul>
 
 <b> Things do in Korea </b>
