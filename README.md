@@ -88,6 +88,7 @@
   <li><strike>Seoraksan</strike></li>
   <li>Incheon island</li>
   <li>Yeosu</li>
+  <li>Oido beacon</li>
 </ul>
 
 <b> Ideas: </b>
