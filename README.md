@@ -41,8 +41,10 @@
   <li>Flutter</li>
   <li><strike>Investing for Dummies (chapter 19)</strike></li>
   <li>A random walk down Wall Street</li>
-  <li>Built to Last</li>
+  <li><strike>Built to Last</strike></li>
   <li>Made in America</li>
+  <li>Permanent Record</li>
+  <li>Why we sleep?</li>
 </ul>
 
 <b> Series/Movies: </b>
