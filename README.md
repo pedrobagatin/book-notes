@@ -101,6 +101,7 @@
   <li>Loja de conveniencia</li>
   <li>Lancheira/lunch box</li>
   <li>Mix coffee/Kanu</li>
+  <li>heating floor</li>
 </ul>
 
 <b> Goals </b>
