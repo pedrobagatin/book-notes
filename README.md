@@ -103,6 +103,7 @@
   <li>Mix coffee/Kanu</li>
   <li>heating floor</li>
   <li>gas systems</li>
+  <li>Omok for brazilians</li>
 </ul>
 
 <b> Goals </b>
