@@ -43,7 +43,6 @@
   <li>A random walk down Wall Street</li>
   <li><strike>Built to Last</strike></li>
   <li>Made in America</li>
-  <li>Permanent Record</li>
   <li>Why we sleep?</li>
 </ul>
 
@@ -66,8 +65,8 @@
   <li><strike>Jumanji</strike></li>
   <li>Creed</li>
   <li>Matrix</li>
-  <li>The Howl's Moving Castle</li>
-  <li>My Neighbor Tororo</li>
+  <li><strike>The Howl's Moving Castle</strike></li>
+  <li><strike>My Neighbor Tororo</strike></li>
 </ul>
 
 <b> Games: </b>
