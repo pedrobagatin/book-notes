@@ -50,6 +50,7 @@
   <li>Raizes do Brasil</li>
   <li>Domain-Drivern Design</li>
   <li>Clean Code</li>
+  <li>Refactoring: Improving the Design of Existing Code</li>
   
 </ul>
 
